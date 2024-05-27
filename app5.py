@@ -1,0 +1,1 @@
+print('New', 2023, 'see you soon!',sep='.')
